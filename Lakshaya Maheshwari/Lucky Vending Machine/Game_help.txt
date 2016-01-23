@@ -1,0 +1,10 @@
+
+                       Number_Generated|Price_Won|Price_Worth|Cost_to_Player
+
+                        =======================================================
+                               1		Pen      	$10			$1
+                               2	    Book     	$20			$2
+                               3		DVD      	$30			$3
+                               4	    Mouse    	$40			$4
+                               5		Keyboard 	$50			$5
+                            
